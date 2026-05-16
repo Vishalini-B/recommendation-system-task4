@@ -104,7 +104,7 @@ public class RecommendationEngine {
         System.out.print("   Already rated : ");
         try {
         	long[] ratedItems = model.getItemIDsFromUser(userId).toArray();
-            List<String> ratedNames = new ArrayList<>();
+        	List<String> ratedNames = new ArrayList<>();
             for (long itemId : ratedItems) {
                 ratedNames.add(getProductName(itemId));
             }
