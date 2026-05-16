@@ -1,2 +1,13 @@
 # recommendation-system-task4
-AI-Based Recommendation System using Java and Apache Mahout
+
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: VISHALINI B
+
+*INTERN ID *: CTIS8696
+
+*DOMAIN *: Java Programming
+
+*DURATION *: 4 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
