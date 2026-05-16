@@ -232,6 +232,10 @@ case where a user has rated all available products.
 
 ## 📤 Output
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b691f7ee-6b7c-41a9-b85c-216cea56586a" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b4e8ef6d-19db-4d0a-8ac3-2fe4ed819609" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0b16e895-a1ee-4632-8e32-436568035339" />
+
 ---
 
 ## 👩‍🎓 Author
